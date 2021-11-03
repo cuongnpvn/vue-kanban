@@ -73,7 +73,7 @@ export default {
       company: "",
       checked: false,
       successfulSignUp: false,
-      invalidSIgnUp: true,
+      invalidSIgnUp: false,
     };
   },
   methods: {
